@@ -1,23 +1,13 @@
-# Compiled class file
-*.class
+fun main() {   //inicio
 
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+  
+  println("Contagem de 0 a 34.000")
+  
+    for (i in 0..34000) { //vai mostrar o numero de 0 até o número 34.000
+      
+        
+      print(" $i")
+ //vai mostrar valor
+    }
+ 
+}
